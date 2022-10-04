@@ -1,7 +1,7 @@
 # Flask_App
 In this project I made a basic flask of a web server and wrapped it in a container in google cloud platform using terraform.
 ## Step 1:
-we made a container that runs a flask app.
+I generated a container that runs a flask app.
 first step I built and ran a container for the database using the following commands:
   docker build -t mydatabase
   docker run -d -p 5432:5432 mydatabase
