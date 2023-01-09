@@ -1,5 +1,5 @@
 # Flask_App
-In this project I made a basic framework of a web server and wrapped it in a container in google cloud platform using terraform.
+In this project I made a basic flask app and wrapped it in a container in google cloud platform using terraform.
 ## Step 1:
 I generated a container that runs a flask app.
 
